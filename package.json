@@ -10,7 +10,7 @@
     "bootstrap": "^4.5.0",
     "dotenv": "^8.2.0",
     "easytimer": "^1.1.1",
-    "firebase": "^7.14.5",
+    "firebase": "^10.9.0",
     "material-ui": "^0.20.2",
     "pretty-ms": "^7.0.0",
     "react": "^16.13.1",
